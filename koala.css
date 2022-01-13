@@ -1,0 +1,81 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+.leiras {
+    font-size: 20px;  
+}
+
+#koala4 {
+    float: right;
+    width: 500px;
+    height: 280px;
+    margin-left: 2.5%;
+    border: black solid 1px;
+    
+}
+
+#koala7 {
+    float: right;
+    margin-left: 1.5%;
+    height: 230px;
+    width: 150px;
+}
+
+#koala8 {
+    width: 230px;
+    height: 180px;
+    float: right;
+    margin-left: 1.5%;
+}
+
+table {
+    width: 100%;
+}
+
+p {
+    font-size: 18px;
+}
+
+hr {
+    border-top: black solid 2px;
+}
+
+#vissza-gomb {
+    text-align: center;
+    font-size: 25px;
+    border-top: solid;
+    border-top-width: 2px;
+    border-bottom: solid;
+    border-bottom-width: 2px;
+}
+
+.alcim {
+    text-align: left;
+}
+
+#koala2 {
+    width: 200px;
+    height: 160px;
+    float: right;
+    margin-left: 1.5%; 
+}
+
+#koala3 {
+    width: 200px;
+    height: 160px;
+    float: left;
+    margin-right: 2%; 
+}
+#mainvid {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#iframe {
+    float: right;
+}
